@@ -8,5 +8,16 @@
 
 
 ### Task 2: Min value pixel in blue rgb channel
+Under the hood it's using Reduction approach
 
-![Results](Task2Output.jpg?raw=true "Task1")
+![Results2](Task2Output.jpg?raw=true "Task2")
+
+### Task 3: Convolution for edge detecting
+
+![Results3](Task3Output.jpg?raw=true "Task3")
+
+Before: \
+![Results3](input.png?raw=true "Before")
+
+After: \
+![Results3](Convolution.png?raw=true "Before")
